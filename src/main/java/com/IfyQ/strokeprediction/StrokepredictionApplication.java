@@ -1,4 +1,4 @@
-package com.IfyQ.strokeprediction;
+package com.ifyq.strokeprediction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

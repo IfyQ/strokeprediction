@@ -24,7 +24,6 @@ public class MedicalRecords {
   @ManyToOne
   @JoinColumn(name = "patient_id", nullable = false)
   private Patient patient;
-  private int id;
   private boolean hypertension;
   private double avgGlucoseLevel;
   private double bmi;

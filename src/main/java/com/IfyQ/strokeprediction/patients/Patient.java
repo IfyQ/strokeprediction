@@ -21,7 +21,7 @@ public class Patient{
   private int age;
   private String worktype;
   private String residenceType;
-  private int id;
+  
   public Patient() {
   }
 

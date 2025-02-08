@@ -20,6 +20,7 @@ public class PatientService {
     }
     
     public List<Patient> getPatients() {
+        System.out.println("getPatients");
         return patientRepository.findAll();
     }
 
